@@ -1,10 +1,9 @@
 <!-- Footer Section Start -->
-<button onclick="backToTop()" id="backtotopp">^</button>
 <footer
-    class="border-l-orange-100 bg-gray-900 bg-cover bg-center bg-no-repeat bg-blend-multiply fixed inset-x-0 bottom-0 "
+    class="border-l-orange-100 bg-gray-900 bg-cover bg-center bg-no-repeat bg-blend-multiply fixed inset-x-0 bottom-0"
     style="background-image: url(img/hero-pattern.svg)">
     <div class="container">
-        <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
+        <div class="mx-auto w-full max-w-screen-xl p-4 ">
             <hr class="my-6 border-gray-700 sm:mx-auto lg:my-8" />
             <div class="sm:flex sm:items-center sm:justify-between">
                 <span class="text-sm text-gray-400 sm:text-center">©2024 <a href=""
