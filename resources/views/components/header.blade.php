@@ -14,7 +14,7 @@
                     <span class="hamburger-line transation origin-top-left duration-300 ease-in-out"></span>
                     <span class="hamburger-line transation duration-300 ease-in-out"></span>
                     <span class="hamburger-line transation origin-bottom-left duration-300 ease-in-out"></span>
-                </button>
+                </button> 
 
                 <nav id="nav-menu"
                     class="absolute right-4 top-full mt-1 hidden w-full max-w-[250px] rounded-lg bg-white py-5 shadow-lg lg:static lg:block lg:max-w-full lg:rounded-none lg:bg-transparent lg:shadow-none">

@@ -1,6 +1,6 @@
 <!-- Footer Section Start -->
 <footer
-    class="border-l-orange-100 bg-gray-900 bg-cover bg-center bg-no-repeat bg-blend-multiply fixed inset-x-0 bottom-0">
+    class="border-l-orange-100 bg-gray-900 bg-cover bg-center bg-no-repeat bg-blend-multiply ">
     <div class="container">
         <div class="mx-auto w-full max-w-screen-xl p-4 ">
             <hr class="my-6 border-gray-700 sm:mx-auto lg:my-8" />

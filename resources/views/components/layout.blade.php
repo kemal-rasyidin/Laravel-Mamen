@@ -12,7 +12,9 @@
 
     <x-hero>{{ $title }}</x-hero>
 
-    {{ $slot }}
+    <div style="min-height: 500px">
+        {{ $slot }}
+    </div>
 
     <x-footer></x-footer>
 
